@@ -46,7 +46,7 @@
  > Might be better to use quality extension e.g. _sonarlint_ or any other extension on your end to get better approach on this. 
 
  > Line `#16`, `#18`, `#22`, `#35`, `#40`, `#43`, `#46`, `#51`, `#54`, `#55`
- > Might be better to use camelCase for variable & function instead uf snakecase on Javascript syntax and PascalCase for class. Fur function can use Please refer to this documentation for a better understanding https://google.github.io/styleguide/jsguide.html#naming. Can be changed like this
+ > Might be better to use `camelCase` for variable & function and `PascalCase` for class instead of snakecase on Javascript syntax. Fur function can use Please refer to this documentation for a better understanding https://google.github.io/styleguide/jsguide.html#naming. Can be changed like this
  > ```js
  > const YOUR_VARIABLE_HERE = ....;
  > let yourVariableHere = ....;
